@@ -1,0 +1,28 @@
+order_id,order_date,product_id,quantity,sales,city,rejected_reason
+1002,25-07-2025,P002,1,60,Bengaluru,Invalid Sales calculation.
+order_id,order_date,product_id,quantity,sales,city,rejected_reason
+1003,26-07-2025,P999,1,250,Mumbai,Invalid product id P999;Date 26-07-2025 is a future date.;
+order_id,order_date,product_id,quantity,sales,city,rejected_reason
+1002,25-07-2025,P002,1,60,Bengaluru,Invalid Sales calculation.
+order_id,order_date,product_id,quantity,sales,city,rejected_reason
+1003,26-07-2025,P999,1,250,Mumbai,Invalid product id P999;Date 26-07-2025 is a future date.;
+order_id,order_date,product_id,quantity,sales,city,rejected_reason
+1004,22-07-2025,P002,,50,Mumbai,Columns quantity are empty.;Invalid Sales calculation.
+order_id,order_date,product_id,quantity,sales,city,rejected_reason
+1005,30-07-2025,P002,2,500,Bengaluru,Date 30-07-2025 is a future date.;Invalid Sales calculation.
+order_id,order_date,product_id,quantity,sales,city,rejected_reason
+1002,25-07-2025,P002,1,60,Bengaluru,Invalid Sales calculation.
+order_id,order_date,product_id,quantity,sales,city,rejected_reason
+1003,26-07-2025,P999,1,250,Mumbai,Invalid product id P999;Date 26-07-2025 is a future date.;
+order_id,order_date,product_id,quantity,sales,city,rejected_reason
+1004,22-07-2025,P002,,50,Mumbai,Columns quantity are empty.;Invalid Sales calculation.
+order_id,order_date,product_id,quantity,sales,city,rejected_reason
+1005,30-07-2025,P002,2,500,Bengaluru,Date 30-07-2025 is a future date.;Invalid Sales calculation.
+order_id,order_date,product_id,quantity,sales,city,rejected_reason
+1002,25-07-2025,P002,1,60,Bengaluru,Invalid Sales calculation.
+order_id,order_date,product_id,quantity,sales,city,rejected_reason
+1003,26-07-2025,P999,1,250,Mumbai,Invalid product id P999;Date 26-07-2025 is a future date.;
+order_id,order_date,product_id,quantity,sales,city,rejected_reason
+1004,22-07-2025,P002,,50,Mumbai,Columns quantity are empty.;Invalid Sales calculation.
+order_id,order_date,product_id,quantity,sales,city,rejected_reason
+1005,30-07-2025,P002,2,500,Bengaluru,Date 30-07-2025 is a future date.;Invalid Sales calculation.

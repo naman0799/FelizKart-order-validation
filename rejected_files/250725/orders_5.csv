@@ -1,0 +1,6 @@
+order_id,order_date,product_id,quantity,sales,city
+1001,23-07-2025,P001,2,500,Delhi
+1002,25-07-2025,P002,1,60,Bengaluru
+1003,26-07-2025,P999,1,250,Mumbai
+1004,22-07-2025,P002,,50,Mumbai
+1005,30-07-2025,P002,2,500,Bengaluru
